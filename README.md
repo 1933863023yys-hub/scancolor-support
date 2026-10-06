@@ -1,0 +1,1 @@
+# scancolor-support
